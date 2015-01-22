@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context="com.example.serenitycalculator.options_menu" >
+
+    <item
+        android:id="@+id/set_time"
+        android:title="@string/set_time"/>
+
+    <item
+        android:id="@+id/set_name"
+        android:title="@string/set_name"/>
+    <item
+        android:id="@+id/show_days"
+        android:title="@string/show_days"/>
+
+</menu>
