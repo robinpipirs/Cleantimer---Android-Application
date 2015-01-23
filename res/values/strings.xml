@@ -2,8 +2,8 @@
 <resources>
 
     <string name="app_name">CleanTimer</string>
-    <string name="hi_text">Hi  \  </string>
-    <string name="name_text">click the teacup!</string>
+    <string name="hi_text">Hi \  </string>
+    <string name="name_text">click the teacup</string>
     <string name="clean_text">You\'ve been clean for:</string>
     <string name="counter_digits">00:00:00:00:00:00</string>
     <string name="counter_text">years \t  \ months \t \t days \t \t hours \t  \ minutes</string>
